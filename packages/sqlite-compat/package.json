@@ -1,0 +1,7 @@
+{
+  "name": "better-sqlite3",
+  "version": "13.0.3-atlas",
+  "private": true,
+  "main": "index.cjs",
+  "description": "Small synchronous compatibility layer backed by node:sqlite for Atlas"
+}

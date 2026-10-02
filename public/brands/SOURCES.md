@@ -1,0 +1,62 @@
+# Server marks
+
+Marks are used for identification. A publisher favicon represents a service; a GitHub avatar represents the listed repository owner, not an endorsement.
+
+- `github`: existing publisher/favicon asset
+- `playwright`: existing publisher/favicon asset
+- `chrome-devtools`: existing publisher/favicon asset
+- `filesystem`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `memory`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `sequential-thinking`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `everything`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `postgres-reference`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `postgres`: postgresql.org favicon — https://www.google.com/s2/favicons?domain=postgresql.org&sz=128
+- `brave-search`: existing publisher/favicon asset
+- `exa`: official GitHub organization avatar — https://github.com/exa-labs.png?size=256
+- `tavily`: tavily.com favicon — https://www.google.com/s2/favicons?domain=tavily.com&sz=128
+- `firecrawl`: firecrawl.dev favicon — https://www.google.com/s2/favicons?domain=firecrawl.dev&sz=128
+- `context7`: context7.com favicon — https://www.google.com/s2/favicons?domain=context7.com&sz=128
+- `arxiv`: arxiv.org favicon — https://www.google.com/s2/favicons?domain=arxiv.org&sz=128
+- `markdownify`: GitHub owner avatar: zcaceres — https://github.com/zcaceres.png?size=128
+- `pandoc`: pandoc.org favicon — https://www.google.com/s2/favicons?domain=pandoc.org&sz=128
+- `notion`: existing publisher/favicon asset
+- `figma`: existing publisher/favicon asset
+- `figma-context`: existing publisher/favicon asset
+- `stripe`: existing publisher/favicon asset
+- `huggingface`: huggingface.co favicon — https://www.google.com/s2/favicons?domain=huggingface.co&sz=128
+- `linear`: existing publisher/favicon asset
+- `sentry`: existing publisher/favicon asset
+- `atlassian`: existing publisher/favicon asset
+- `slack`: official GitHub organization avatar — https://github.com/slackapi.png?size=256
+- `obsidian`: existing publisher/favicon asset
+- `obsidian-http`: obsidian.md favicon — https://www.google.com/s2/favicons?domain=obsidian.md&sz=128
+- `todoist`: existing publisher/favicon asset
+- `spotify`: existing publisher/favicon asset
+- `home-assistant`: existing publisher/favicon asset
+- `blender`: existing publisher/favicon asset
+- `ableton`: ableton.com favicon — https://www.google.com/s2/favicons?domain=ableton.com&sz=128
+- `unity`: existing publisher/favicon asset
+- `godot`: existing publisher/favicon asset
+- `minecraft`: minecraft.net favicon — https://www.google.com/s2/favicons?domain=minecraft.net&sz=128
+- `docker-gateway`: existing publisher/favicon asset
+- `docker`: existing publisher/favicon asset
+- `kubernetes`: existing publisher/favicon asset
+- `cloudflare`: existing publisher/favicon asset
+- `aws`: existing publisher/favicon asset
+- `supabase`: existing publisher/favicon asset
+- `neon`: existing publisher/favicon asset
+- `grafana`: official GitHub organization avatar — https://github.com/grafana.png?size=256
+- `redis`: existing publisher/favicon asset
+- `mongodb`: existing publisher/favicon asset
+- `qdrant`: qdrant.tech favicon — https://www.google.com/s2/favicons?domain=qdrant.tech&sz=128
+- `chroma`: trychroma.com favicon — https://www.google.com/s2/favicons?domain=trychroma.com&sz=128
+- `browserbase`: browserbase.com favicon — https://www.google.com/s2/favicons?domain=browserbase.com&sz=128
+- `weather`: GitHub owner avatar: isdaniel — https://github.com/isdaniel.png?size=128
+- `desktop-commander`: GitHub owner avatar: wonderwhy-er — https://github.com/wonderwhy-er.png?size=128
+- `miro`: existing publisher/favicon asset
+- `semgrep`: semgrep.dev favicon — https://www.google.com/s2/favicons?domain=semgrep.dev&sz=128
+- `e2b`: e2b.dev favicon — https://www.google.com/s2/favicons?domain=e2b.dev&sz=128
+- `git`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `time`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `fetch`: modelcontextprotocol.io favicon — https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=128
+- `pollinations`: existing publisher/favicon asset
